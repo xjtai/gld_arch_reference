@@ -1,7 +1,7 @@
 ---
 specId: SPEC-参考组-001
 type: spec
-title: 广小联企业级高可用智能客服 Agent
+title: 华润金融企业级高可用智能客服 Agent
 domain: 客服
 system: reference-customer-service-agent
 owner: 参考组 / 讲师
@@ -19,7 +19,7 @@ score: {}
 
 > **参考实现**：这是一种合格解，不是标准答案。标 `【硬要求】` 的来自 `prd.md`，不能变；其余是本方案的选择，换个合理做法同样能通过验收。
 
-# SPEC-参考组-001｜广小联企业级高可用智能客服 Agent
+# SPEC-参考组-001｜华润金融企业级高可用智能客服 Agent
 
 ## 1. 背景与目标
 

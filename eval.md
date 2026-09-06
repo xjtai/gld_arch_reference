@@ -1,7 +1,7 @@
 ---
 specId: EVAL-参考组-001
 type: eval
-title: 广小联企业级高可用智能客服 Agent
+title: 华润金融企业级高可用智能客服 Agent
 parent_spec: spec.md
 plan_ref: plan.md
 tasks_ref: tasks.md

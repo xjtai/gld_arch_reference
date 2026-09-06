@@ -1,7 +1,7 @@
 ---
 specId: PLAN-参考组-001
 type: plan
-title: 广小联企业级高可用智能客服 Agent
+title: 华润金融企业级高可用智能客服 Agent
 parent_spec: spec.md
 domain: 客服
 system: reference-customer-service-agent
